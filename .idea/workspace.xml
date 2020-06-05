@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cb63bba-2ac0-47fc-8953-00fe2d86cb35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Java" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Java" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WxaBHkaQTskDqyfz5HxojkimfN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Gradle.PolarCoordinatesTest">
+    <configuration name="FacePrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FacePrinter" />
+      <module name="Java.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolarCoordinates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolarCoordinates" />
+      <module name="Java.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FacePrinterTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;FacePrinterTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PolarCoordinatesTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;PolarCoordinatesTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="QuadraticSolverTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;QuadraticSolverTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.FacePrinter" />
+      <item itemvalue="Gradle.FacePrinterTest" />
+      <item itemvalue="Gradle.QuadraticSolverTest" />
+      <item itemvalue="Application.PolarCoordinates" />
+      <item itemvalue="Gradle.PolarCoordinatesTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.PolarCoordinatesTest" />
+        <item itemvalue="Application.PolarCoordinates" />
+        <item itemvalue="Gradle.QuadraticSolverTest" />
+        <item itemvalue="Gradle.FacePrinterTest" />
+        <item itemvalue="Application.FacePrinter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cb63bba-2ac0-47fc-8953-00fe2d86cb35" name="Default Changelist" comment="" />
+      <created>1580093562579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580093562579</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="204" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580400077856">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="204" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.822@0.23.1440.822" timestamp="1580400077856" />
+    <state x="140" y="163" width="1200" height="582" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1580400330334">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="140" y="163" width="1200" height="582" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.822@0.23.1440.822" timestamp="1580400330334" />
+    <state x="514" y="321" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580094378475">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="514" y="321" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.823@0.23.1440.823" timestamp="1580094378475" />
+    <state width="769" height="191" key="GridCell.Tab.0.bottom" timestamp="1580669802870">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="769" height="191" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580576409323" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1580569952873" />
+    <state width="769" height="191" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1580669802870" />
+    <state width="769" height="191" key="GridCell.Tab.0.center" timestamp="1580669802869">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="769" height="191" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580576409321" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1580569952873" />
+    <state width="769" height="191" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1580669802869" />
+    <state width="769" height="191" key="GridCell.Tab.0.left" timestamp="1580669802868">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="769" height="191" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580576409320" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1580569952872" />
+    <state width="769" height="191" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1580669802868" />
+    <state width="769" height="191" key="GridCell.Tab.0.right" timestamp="1580669802870">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="769" height="191" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580576409322" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1580569952873" />
+    <state width="769" height="191" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1580669802870" />
+    <state width="1358" height="247" key="GridCell.Tab.1.bottom" timestamp="1580669802861">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1358" height="247" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1580569725698" />
+    <state width="1358" height="247" key="GridCell.Tab.1.bottom/0.23.1440.823@0.23.1440.823" timestamp="1580669802861" />
+    <state width="1358" height="247" key="GridCell.Tab.1.center" timestamp="1580669802861">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1358" height="247" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1580569725697" />
+    <state width="1358" height="247" key="GridCell.Tab.1.center/0.23.1440.823@0.23.1440.823" timestamp="1580669802861" />
+    <state width="1358" height="247" key="GridCell.Tab.1.left" timestamp="1580669802861">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1358" height="247" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1580569725697" />
+    <state width="1358" height="247" key="GridCell.Tab.1.left/0.23.1440.823@0.23.1440.823" timestamp="1580669802861" />
+    <state width="1358" height="247" key="GridCell.Tab.1.right" timestamp="1580669802861">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1358" height="247" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1580569725697" />
+    <state width="1358" height="247" key="GridCell.Tab.1.right/0.23.1440.823@0.23.1440.823" timestamp="1580669802861" />
+    <state x="419" y="287" key="com.intellij.ide.util.TipDialog" timestamp="1580397235859">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="419" y="287" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1580397235859" />
+    <state x="419" y="287" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1580093568255" />
+  </component>
+</project>
